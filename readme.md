@@ -2,7 +2,7 @@ This is a simple script for generating some basic linework drawings using [canva
 
 It works by simply creating a grid of lines and then using noise to moduate the vertical positions of points in each line. Extra functionality is included to change the colour of the lines, apply a circular mask and select a randomized colour palette.
 
-If youre looking to try it be sure to install canvas-sketch, chaikin-smooth and nice-palettes (all written by Matt DesLauriers) from npm before doing so.
+If youre looking to try it be sure to install canvas-sketch, chaikin-smooth and nice-color-palettes (all written by Matt DesLauriers) from npm before doing so.
 
 Heres a few sample pieces:
 
@@ -12,6 +12,8 @@ Heres a few sample pieces:
 ![](./outputs/(7).png)
 ![](./outputs/(3).png)
 ![](./outputs/(2).png)
+
+In the future I plan to add additional scripts to this repo for some pieces I've done that integrate p5 and also render to svg instead of raster images.
 
 Cheers :)
 
